@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Wrathemperor/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -19,4 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
+## Hash Table
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Wrathemperor/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Wrathemperor/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
