@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Wrathemperor/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Wrathemperor/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0724-find-pivot-index](https://github.com/Wrathemperor/LeetCode/tree/master/0724-find-pivot-index) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Wrathemperor/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Wrathemperor/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Wrathemperor/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
