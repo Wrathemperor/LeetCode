@@ -14,7 +14,7 @@ class Solution {
                 temp.add(x);
             }
             ans.add(temp);
-            return;
+            
         }
 
         for(int i=idx;i<arr.length;i++){
