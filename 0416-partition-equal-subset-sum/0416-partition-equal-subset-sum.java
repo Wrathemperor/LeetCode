@@ -7,23 +7,24 @@ class Solution {
             sum+=nums[i];
         }
         if(sum%2==1)return false;
-        boolean[][] dp=new boolean[n+1][sum/2+1];
+        boolean[] dp=new boolean[sum/2+1];
         //base case: sum 0 always possible
-        dp[n][0]=true;
+        dp[0]=true;
         int t=sum/2;
-        for(int i=n-1;i>=0;i--){
-            for(int j=0;j<=t;j++){
+        // for(int i=n-1;i>=0;i--){
+        for(int i:nums){
+            for(int j=t;j>=i;j--){
 
-                boolean notake=dp[i+1][j];
+                // boolean notake=dp[i+1][j];
 
-                boolean take=false;
-                if(nums[i]<=j){
-                    take=dp[i+1][j-nums[i]];
-                }
-                dp[i][j]=take||notake;
+                // boolean take=false;
+                // if(nums[i]<=j){
+                //     take=dp[i+1][j-nums[i]];
+                // }
+               dp[j]=dp[j] || dp[j-i];
             }
         }
-        return dp[0][t];
+        return dp[t];
         // boolean res=helper(nums,n,0,sum/2,dp);
         // return res;
     }
