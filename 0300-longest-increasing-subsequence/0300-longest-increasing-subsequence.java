@@ -23,6 +23,7 @@ class Solution {
                     temp[left]=nums[i];
             }
         }
+        System.gc();
         return len;
     }
 }
