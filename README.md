@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Wrathemperor/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Wrathemperor/LeetCode/tree/master/0022-generate-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
+| [1143-longest-common-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Wrathemperor/LeetCode/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
