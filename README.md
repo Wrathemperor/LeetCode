@@ -143,12 +143,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Wrathemperor/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -167,4 +169,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Wrathemperor/LeetCode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
