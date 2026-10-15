@@ -9,10 +9,7 @@ class Solution {
                 start=i+1;
             }
         }
-        IO.println(c);
-        for(char k:c){
-            IO.print(k+" ");
-        }
+       
         return new String(c);
 
         
