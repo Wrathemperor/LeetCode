@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Wrathemperor/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/Wrathemperor/LeetCode/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Wrathemperor/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Wrathemperor/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Divide and Conquer
 |  |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Wrathemperor/LeetCode/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Wrathemperor/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Tree
 |  |
