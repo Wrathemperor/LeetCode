@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0494-target-sum) |
 | [0724-find-pivot-index](https://github.com/Wrathemperor/LeetCode/tree/master/0724-find-pivot-index) |
+| [0941-valid-mountain-array](https://github.com/Wrathemperor/LeetCode/tree/master/0941-valid-mountain-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Wrathemperor/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Wrathemperor/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
