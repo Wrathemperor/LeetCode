@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Wrathemperor/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/Wrathemperor/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Wrathemperor/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Backtracking
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0416-partition-equal-subset-sum) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0494-target-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0494-target-sum) |
 | [0704-binary-search](https://github.com/Wrathemperor/LeetCode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Wrathemperor/LeetCode/tree/master/0724-find-pivot-index) |
