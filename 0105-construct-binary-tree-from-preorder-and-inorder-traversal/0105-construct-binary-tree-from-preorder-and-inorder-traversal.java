@@ -18,9 +18,8 @@ class Solution {
        int idx=0;
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         int n=preorder.length,m=inorder.length;
-        if(preorder[0]==-1 && inorder[0]==-1 )return new TreeNode(-1);
-        if(n==0 || m==0 )return new TreeNode(-1);
-        TreeNode head=new TreeNode(preorder[0]);
+       
+    
      
         for(int i=0;i<m;i++){
             map.put(inorder[i],i);
