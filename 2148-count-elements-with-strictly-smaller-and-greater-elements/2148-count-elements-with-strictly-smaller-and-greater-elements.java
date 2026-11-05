@@ -1,5 +1,6 @@
 class Solution {
     public int countElements(int[] nums) {
+        if(nums==null || nums.length<=2) return 0;
         int max=Integer.MIN_VALUE,min=Integer.MAX_VALUE;
         for(int i:nums){
             max=Math.max(max,i);
