@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Wrathemperor/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0229-majority-element-ii) |
+| [0260-single-number-iii](https://github.com/Wrathemperor/LeetCode/tree/master/0260-single-number-iii) |
 | [0300-longest-increasing-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Wrathemperor/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Wrathemperor/LeetCode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Wrathemperor/LeetCode/tree/master/0260-single-number-iii) |
 ## DP on Trees
 |  |
 | ------- |
