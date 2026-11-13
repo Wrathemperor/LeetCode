@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Wrathemperor/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Wrathemperor/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0229-majority-element-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0229-majority-element-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Wrathemperor/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Wrathemperor/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Wrathemperor/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0414-third-maximum-number](https://github.com/Wrathemperor/LeetCode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Wrathemperor/LeetCode/tree/master/0416-partition-equal-subset-sum) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Wrathemperor/LeetCode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Wrathemperor/LeetCode/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -331,5 +334,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0229-majority-element-ii) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Wrathemperor/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
