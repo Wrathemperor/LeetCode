@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Wrathemperor/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Wrathemperor/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Hash Table
 |  |
 | ------- |
