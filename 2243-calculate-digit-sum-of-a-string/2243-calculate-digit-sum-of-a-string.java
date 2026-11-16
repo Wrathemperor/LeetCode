@@ -1,7 +1,7 @@
 class Solution {
     public String digitSum(String s, int k) {
         int n=s.length();
-        
+        if(n<=k)return s;
         while(s.length()>k){
             StringBuilder sb=new StringBuilder();
         for(int i=0;i<s.length();i+=k){
