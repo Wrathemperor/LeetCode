@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0785-is-graph-bipartite](https://github.com/Wrathemperor/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Wrathemperor/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Wrathemperor/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0785-is-graph-bipartite](https://github.com/Wrathemperor/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Wrathemperor/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -369,10 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/Wrathemperor/LeetCode/tree/master/0130-surrounded-regions) |
 | [0785-is-graph-bipartite](https://github.com/Wrathemperor/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Wrathemperor/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Wrathemperor/LeetCode/tree/master/0785-is-graph-bipartite) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Wrathemperor/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
 | ------- |
