@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Wrathemperor/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Wrathemperor/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Wrathemperor/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Wrathemperor/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Stack
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Wrathemperor/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Wrathemperor/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Backtracking
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Wrathemperor/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Wrathemperor/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Wrathemperor/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Wrathemperor/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Wrathemperor/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Divide and Conquer
 |  |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Wrathemperor/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Wrathemperor/LeetCode/tree/master/0958-check-completeness-of-a-binary-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Wrathemperor/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -255,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Wrathemperor/LeetCode/tree/master/0785-is-graph-bipartite) |
 | [0951-flip-equivalent-binary-trees](https://github.com/Wrathemperor/LeetCode/tree/master/0951-flip-equivalent-binary-trees) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Wrathemperor/LeetCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Wrathemperor/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Breadth-First Search
 |  |
 | ------- |
