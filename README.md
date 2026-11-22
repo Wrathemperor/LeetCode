@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0844-backspace-string-compare](https://github.com/Wrathemperor/LeetCode/tree/master/0844-backspace-string-compare) |
 | [1143-longest-common-subsequence](https://github.com/Wrathemperor/LeetCode/tree/master/1143-longest-common-subsequence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Wrathemperor/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Wrathemperor/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/Wrathemperor/LeetCode/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Wrathemperor/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
