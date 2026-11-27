@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Wrathemperor/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0922-sort-array-by-parity-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Wrathemperor/LeetCode/tree/master/0941-valid-mountain-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Wrathemperor/LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Wrathemperor/LeetCode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Wrathemperor/LeetCode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Wrathemperor/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Wrathemperor/LeetCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Wrathemperor/LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Wrathemperor/LeetCode/tree/master/0509-fibonacci-number) |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Wrathemperor/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Wrathemperor/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Recursion
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Wrathemperor/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Wrathemperor/LeetCode/tree/master/0455-assign-cookies) |
 | [0922-sort-array-by-parity-ii](https://github.com/Wrathemperor/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/Wrathemperor/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Wrathemperor/LeetCode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Wrathemperor/LeetCode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -419,4 +423,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Wrathemperor/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Wrathemperor/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
