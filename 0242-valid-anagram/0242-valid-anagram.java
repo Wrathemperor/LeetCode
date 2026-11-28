@@ -10,11 +10,11 @@ class Solution {
         }
         
            for(int i=0;i<t.length();i++){
-            count[t.charAt(i)-'a']--;
+            if(--count[t.charAt(i)-'a']<0)return false;
         }
-        for(int x:count){
-            if(x<0) return false;
-        }
+        // for(int x:count){
+        //     if(x<0) return false;
+        // }
         return true;
     }
 }
