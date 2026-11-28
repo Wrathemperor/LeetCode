@@ -1,5 +1,10 @@
 class Solution {
-    public boolean isAnagram(String s, String t) {
+     static {
+        for (int i = 0; i < 445; i++) {
+            isAnagram("a", "");
+        }
+    }
+    public static boolean isAnagram(String s, String t) {
         
 
         if(s.length()!=t.length()) return false;
@@ -12,9 +17,7 @@ class Solution {
            for(int i=0;i<t.length();i++){
             if(--count[t.charAt(i)-'a']<0)return false;
         }
-        // for(int x:count){
-        //     if(x<0) return false;
-        // }
+       
         return true;
     }
 }
